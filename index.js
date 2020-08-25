@@ -30,23 +30,28 @@ name: "description"
 {type: "list",
 message: "What kind of license should your project have?",
 name: "license",
-choices: ["mit","apache"]},
+choices: ["mit","apache 2.0","gpl3.0","bsd3"]},
 
 {type: "input",
 message: "what command should be run to install dependencies?",
-name: "install"},
+name: "install",
+default: "npm i"},
 
 {type: "input",
 message: 'What command should be run to run test?',
-name: "test"},
+name: "test",
+default: "npm test"},
 
 {type: "input",
 message: "what does the user need to know about using the repo?",
-name: "repo"},
+name: "repo"
+},
 
 {type: "input",
 message: 'What does the user need to know about contributing to the repo?',
 name: "contributing"},
+
+
 ];
 
 // function to write README file
