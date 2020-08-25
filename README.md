@@ -1,9 +1,9 @@
-# README Generator
+# README Genaerator
 
   ![Badge](https://img.shields.io/badge/License-mit-RED)
 
 ## Description
- This application will generate a README.md file based on answers to given questions
+ This application will generate a README.md file after a set of answers are given to a set of provided questions
  ## Table of Contents
 
  * [Installation](#installation)
@@ -16,14 +16,15 @@
  ## Installation
  npm i
  ## Usage
- enjoy
+ This repo is for class use only.
  ## License
  mit
  ## Contributing
- none
+ na
  ## Tests
  npm test
  ## Questions
  Direct all questions to ccollins36@icloud.com
-
+ 
+![Video](https://drive.google.com/file/d/1jBqt2TFwpsBmQ8Nn0XkRVwdcLlGmSVKP/view?usp=sharing)
  
