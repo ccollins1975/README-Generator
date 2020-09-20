@@ -26,5 +26,5 @@
  ## Questions
  Direct all questions to ccollins36@icloud.com
  
-![Video](https://drive.google.com/file/d/1jBqt2TFwpsBmQ8Nn0XkRVwdcLlGmSVKP/view?usp=sharing)
+[link to Demo Video](https://drive.google.com/file/d/1jBqt2TFwpsBmQ8Nn0XkRVwdcLlGmSVKP/view?usp=sharing)
  
