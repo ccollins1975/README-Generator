@@ -30,7 +30,7 @@ name: "description"
 {type: "list",
 message: "What kind of license should your project have?",
 name: "license",
-choices: ["mit","apache 2.0","gpl3.0","bsd3"]},
+choices: ["mit","apache%202.0","gpl%203.0","bsd%203"]},
 
 {type: "input",
 message: "what command should be run to install dependencies?",
